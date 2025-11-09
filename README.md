@@ -14,8 +14,7 @@
     His name is AMOS MULWA MUKWILI.
     he joined a private school and had her primary education there,later he joined secondary school in a etra county schhol in kisii.
     he is currently doing his degree at a World class university:MERU UNIVERSITY OF SCIENCE AND TECHNOLOGY persuing bachelor of science in information technology.
-<img src="../20250927_134120.jpg" alt="20250927_134120" width="200" height="200" loading="lazy">
-<img src="../meru university (2).jpg" alt="meru university logo" width="200" height="200" loading="lazy">
+https://github.com/Amosmulwili/Willymulwa/blob/main/IMG_20240804_100630_958.jpg
 </P>
 <h2>SKILLS GAINED</h2>
 <P>My course involves the technology and so I have to keep up with the trends and changes
